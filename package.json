@@ -1,0 +1,30 @@
+{
+  "name": "namasthe-react",
+  "version": "1.0.0",
+  "description": "This is Namasthe React by Monisha",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21p31a0415/namasthe-react.git"
+  },
+  "keywords": [],
+  "author": "Monisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21p31a0415/namasthe-react/issues"
+  },
+  "homepage": "https://github.com/21p31a0415/namasthe-react#readme",
+  "dependencies": {
+    "parcel": "^2.14.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+
+  },
+  "browserslist":[
+    "last 2 Chrome version",
+    "last 2 Firefox versions" 
+  ]
+
+}
